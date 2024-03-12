@@ -33,7 +33,7 @@ android {
         versionName "14.1"
         versionCode 3
         minSdk 26
-        targetSdk 30
+        targetSdk 34
         compileSdk 34
         testInstrumentationRunner 'android.test.InstrumentationTestRunner'
         multiDexEnabled true
