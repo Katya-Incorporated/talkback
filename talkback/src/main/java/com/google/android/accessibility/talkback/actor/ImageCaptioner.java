@@ -139,7 +139,7 @@ public class ImageCaptioner extends Handler
 
   private static final String TAG = "ImageCaptioner";
   public static final int CAPTION_REQUEST_CAPACITY = 10;
-  private static boolean supportIconDetection = true;
+  private static boolean supportIconDetection = false;
   private static final int MSG_RESULT_TIMEOUT = 0;
   private static final long RESULT_MAX_WAITING_TIME_MS = 5000;
   private static final ExecutorService executorService = Executors.newSingleThreadExecutor();
