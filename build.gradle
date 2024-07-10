@@ -31,7 +31,7 @@ android {
     defaultConfig {
         applicationId talkbackApplicationId
         versionName "14.1"
-        versionCode 3
+        versionCode 18
         minSdk 26
         targetSdk 34
         compileSdk 34
